@@ -1,0 +1,9 @@
+body{background: url(../images/back.png);
+   background-repeat: no-repeat;
+    background-position: 0px -28px;}
+footer{position: fixed;bottom: 0}
+.form{background: rgba(41, 128, 185,0.7);margin-top: 150px}
+.form h2{text-align: center}
+/*.form-horizontal{background: rgba(41, 128, 185,0.7);width: 40%;float: right;margin-top: 10%;padding: 30px;text-align: right}
+.form-control {width: 120%;text-align: center}
+.control-label{margin-left: 38%;margin-bottom: 10px}*/
